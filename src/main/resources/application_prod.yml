@@ -6,7 +6,7 @@ spring:
 build:
   version: "1.0"
 
-cards:
+card:
   message: "Welcome to bank cards related prod APIs "
   contactDetails:
     name: "Sandra Harald - Product Owner"
