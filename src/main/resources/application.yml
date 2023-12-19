@@ -18,8 +18,8 @@ spring:
     import:
       - "application_qa.yml"
       - "application_prod.yml"
-  profiles:
-    active:
+    profiles:
+     active:
       - "qa"
 
 build:
